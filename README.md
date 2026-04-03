@@ -46,14 +46,12 @@ The database schema was developed through a rigorous, multi-step modelling proce
 ### Entity-Relationship Diagram (ERD)
 The final ERD provides rigorous coverage of the clinic's main processes. 
 
-![Pet Clinic ERD](./docs/final-erd.png)
-*(Note: Upload the Final ERD from your appendix here)*
+<img width="1371" height="734" alt="erd" src="https://github.com/user-attachments/assets/605b4cf7-7bef-43e0-a7b0-bb09967a0640" />
 
 ### Use Case Diagram (UCD)
 The UCD prioritises the understanding of primary users who routinely interact with clinic data, outlining core processes like booking consultations, assessing pets, and managing payments.
 
-![Use Case Diagram](./docs/use-case-diagram.png)
-*(Note: Upload the Use Case Diagram from your appendix here)*
+<img width="1376" height="747" alt="ucd" src="https://github.com/user-attachments/assets/1bb6cb24-5ed5-4bf4-b674-5954ba4e9b71" />
 
 ---
 
